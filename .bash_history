@@ -54,3 +54,62 @@ cd downlaods
 ls -la
 git status
 git commit
+root
+git command
+git commands
+git help
+git init
+git status
+git commit
+git fg
+git help
+git commit
+git status
+git commit
+git diff
+git status
+git add .bash_history
+git commit
+git status
+git commit
+GIT STATUS
+git status
+git diff
+git commit
+GIT STATUS
+git status
+git diff
+ls -lrt
+git commit -m "latest"
+git status
+git branch
+git push origin --all
+git push
+git pull
+git stash
+git reset
+git revert
+git status
+git branch
+git status
+git add .bash_history
+git status
+git commit -m ".bash_history
+
+
+
+
+
+git commit -m ".bash_history"
+
+
+
+new one here
+exit 1
+
+
+
+
+
+
+
